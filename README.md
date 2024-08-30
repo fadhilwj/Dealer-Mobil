@@ -6,10 +6,10 @@ Aplikasi digunakan untuk mengelola penjualan mobil beragam pabrikan. Data utama 
 
 Spesifikasi
 (standar):
-a. Pengguna harus bisa melakukan penambahan, mengubah (edit), dan menghapus data pabrikan dan juga mobil yang diproduksi oleh suatu pabrikan.
-b. Pengguna bisa menampilkan daftar mobil berdasarkan pencarian terhadap nama pabrikan tertentu, dan juga pencarian mobil tertentu dan menampilkan datanya.
-c. Pengguna bisa menampilkan daftar pabrikan terurut berdasarkan jumlah produk/mobil yang ada, menampilkan mobil terurut berdasarkan tahun keluar, nama, pabrikan, dan lainnya.
-d. Pengguna bisa menampilkan 3 daftar mobil dan pabrikan dengan jumlah penjualan tertinggi.
+1. Pengguna harus bisa melakukan penambahan, mengubah (edit), dan menghapus data pabrikan dan juga mobil yang diproduksi oleh suatu pabrikan.
+2. Pengguna bisa menampilkan daftar mobil berdasarkan pencarian terhadap nama pabrikan tertentu, dan juga pencarian mobil tertentu dan menampilkan datanya.
+3. Pengguna bisa menampilkan daftar pabrikan terurut berdasarkan jumlah produk/mobil yang ada, menampilkan mobil terurut berdasarkan tahun keluar, nama, pabrikan, dan lainnya.
+4. Pengguna bisa menampilkan 3 daftar mobil dan pabrikan dengan jumlah penjualan tertinggi.
 
 
 (fungsionalitas yang dikembangkan/ditambahkan):
